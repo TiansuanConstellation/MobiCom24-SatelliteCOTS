@@ -1,0 +1,16 @@
+# python compiled bytecode
+*.pyc
+__pycache__
+
+# ENV/IDE files
+.venv
+.idea
+.DS_Store
+.vscode
+
+# generated files
+*.pdf
+*.log
+
+# telemetry file (too large)
+telemetry_all.csv
